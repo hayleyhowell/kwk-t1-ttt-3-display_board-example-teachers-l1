@@ -2,8 +2,8 @@
 def display_board
   cellRow = "   |   |   "
   border = "-----------"
-  puts cellRow
-  puts border
-  puts cellRow
-  puts border
-  puts cellRow
+  puts "#{cellRow}"
+  puts "#{border}"
+  puts "#{cellRow}"
+  puts "#{border}"
+  puts "#{cellRow}"
