@@ -7,3 +7,4 @@ def display_board
   puts "#{cellRow}"
   puts "#{border}"
   puts "#{cellRow}"
+end
